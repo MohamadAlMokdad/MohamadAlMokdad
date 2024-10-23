@@ -3,8 +3,8 @@
 <h1 align="center">
  <p align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello,+World!+%F0%9F%8C%8D;%F0%9F%92%BB+Code+is+poetry,+and+I%E2
-
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello,+World!+%F0%9F%8C%8D;%F0%9F%92%BB+Code+is+poetry,+and+I%E2%80%99m+writing+my+masterpiece." />
 </p>
 
 </h1>
