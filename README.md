@@ -16,15 +16,13 @@
 <br/>
 
 <div align="center">
- 🔭 Innovating a marketplace where ideas come to life and connections flourish!
+  🔭 Innovating a marketplace where ideas come to life and connections flourish!<br><br>
 
+  🌱 Diving into the fascinating universe of cloud technology and data science to elevate my skillset.<br><br>
 
-🌱 Diving into the fascinating universe of cloud technology and data science to elevate my skillset.
+  ⚡ Fun fact: Coding is like composing a symphony—each line is a note, and together they create a masterpiece! 🎶💻
+</div>
 
-⚡ Fun fact: Coding is like composing a symphony—each line is a note, and together they create a masterpiece! 🎶💻
-
-
- </div>
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
