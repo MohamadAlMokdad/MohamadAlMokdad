@@ -16,14 +16,14 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🔭 Innovating a marketplace where ideas come to life and connections flourish!
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🌱 Diving into the fascinating universe of cloud technology and data science to elevate my skillset.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Eager to swap ideas and insights about the tech landscape—let’s create something extraordinary together!
+
+⚡ Fun fact: Coding is like composing a symphony—each line is a note, and together they create a masterpiece! 🎶💻
+
 
  </div>
  
