@@ -5,17 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=130&duration=4000&pause=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+hello,+world!+%F0%9F%8C%8D;%F0%9F%92%BB+code+is+poetry.%20;%F0%9F%92%BB+and+i%E2%80%99m+writing+my+masterpiece." alt="Typing SVG" />
 </p>
 
-
-
-
-
-
-
-
-
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<p align="center" style="font-size: 20px; font-family: 'Righteous', sans-serif;">
+  🚀 A passionate software developer leveraging my Python skills to embark on an exciting journey in a full software engineering bootcamp! 🌟 Let's code the future together!
+</p>
+
 
 <br/>
 
