@@ -18,9 +18,8 @@
 <div align="center">
  🔭 Innovating a marketplace where ideas come to life and connections flourish!
 
-🌱 Diving into the fascinating universe of cloud technology and data science to elevate my skillset.
 
-💬 Eager to swap ideas and insights about the tech landscape—let’s create something extraordinary together!
+🌱 Diving into the fascinating universe of cloud technology and data science to elevate my skillset.
 
 ⚡ Fun fact: Coding is like composing a symphony—each line is a note, and together they create a masterpiece! 🎶💻
 
