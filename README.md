@@ -8,9 +8,10 @@
 </h1>
 
 <h3 align="center">
-  🚀✨ Crafting code and conquering challenges as a passionate software developer from the Great White North! 🇨🇦 <br>
-  Turning ideas into reality, one line of Python at a time! 🐍💻
+  🌟 A skilled software developer from the vibrant landscapes of Lebanon! 🇱🇧 <br>
+  🚀 Leveraging my expertise in Python and innovative problem-solving to build the future of technology! 💻✨
 </h3>
+
 
 <br/>
 
