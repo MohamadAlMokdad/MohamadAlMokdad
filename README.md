@@ -7,10 +7,10 @@
 
 </h1>
 
-<p align="center" style="font-size: 20px; font-family: 'Righteous', sans-serif;">
-  🚀 A passionate software developer leveraging my Python skills to embark on an exciting journey in a full software engineering bootcamp! 🌟 Let's code the future together!
-</p>
-
+<h3 align="center">
+  🚀✨ Crafting code and conquering challenges as a passionate software developer from the Great White North! 🇨🇦 <br>
+  Turning ideas into reality, one line of Python at a time! 🐍💻
+</h3>
 
 <br/>
 
