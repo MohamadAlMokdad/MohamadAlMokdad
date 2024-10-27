@@ -1,9 +1,17 @@
 
 
 <h1 align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=130&duration=4000&pause=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+hello,+world!+%F0%9F%8C%8D;%F0%9F%92%BB+code+is+poetry.%20;%F0%9F%92%BB+and+i%E2%80%99m+writing+my+masterpiece." alt="Typing SVG" />
-</p>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4B0082; font-size: 36px;">
+    👋🌍 **Hello, World!** 💻✨
+</h1>
+
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF4500; font-size: 30px;">
+    🎨 **Code is poetry.** 📜🎶
+</h2>
+
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #008080; font-size: 28px;">
+    ✍️ **And I’m writing my masterpiece.** 📖🌟
+</h3>
 
 
 
