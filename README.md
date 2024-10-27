@@ -14,20 +14,25 @@
 </h1>
 
 <h3 align="center">
-  🌟 A skilled software developer from the vibrant landscapes of Lebanon! 🇱🇧 <br>
+  🌟 A skilled software developer from the vibrant landscapes of Lebanon! <br>
   🚀 Leveraging my expertise in Python and innovative problem-solving to build the future of technology! 💻✨
 </h3>
 
 
 <br/>
-
 <div align="center">
-  🔭 Innovating a marketplace where ideas come to life and connections flourish!<br><br>
 
-  🌱 Diving into the fascinating universe of cloud technology and data science to elevate my skillset.<br><br>
+✨ **In the realm of code, I thrive,**  
+🔭 Where innovation sparks and ideas come alive.  
 
-  ⚡ Fun fact: Coding is like composing a symphony—each line is a note, and together they create a masterpiece! 🎶💻
+🌱 **With every line, I explore the cloud,**  
+💻 My passion for tech makes me proud.  
+
+🎶 **Coding is my art, my melody divine,**  
+⚡ Creating magic, one function at a time!  
+
 </div>
+
 
  
 <div align="center"> 
