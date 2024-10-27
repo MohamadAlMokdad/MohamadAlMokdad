@@ -3,7 +3,7 @@
 
 <h1 align="center">
 <h1 align="center">
-   🎨 Code is poetry. ✍️ And I’m writing my masterpiece. 📖🌟
+   🎨 Code is poetry, ✍️ and I’m writing my masterpiece. 📖🌟
 
 </h1>
 
