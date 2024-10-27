@@ -1,17 +1,54 @@
+<style>
+    .wave {
+        font-family: 'Arial', sans-serif;
+        text-align: center;
+        font-size: 36px;
+        color: #4B0082;
+        margin: 20px 0;
+        position: relative;
+        display: inline-block;
+    }
 
+    .wave:before, .wave:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 10px;
+        background: linear-gradient(to right, #FF4500, #FF6347, #FF4500);
+        opacity: 0.5;
+        z-index: -1;
+        border-radius: 50%;
+        animation: wave 2s infinite linear;
+    }
 
-<h1 align="center">
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4B0082; font-size: 36px;">
-    👋🌍 **Hello, World!** 💻✨
-</h1>
+    .wave:after {
+        top: 15px;
+        animation-delay: -1s;
+    }
 
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF4500; font-size: 30px;">
-    🎨 **Code is poetry.** 📜🎶
-</h2>
+    @keyframes wave {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+    }
 
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #008080; font-size: 28px;">
-    ✍️ **And I’m writing my masterpiece.** 📖🌟
-</h3>
+    .sentence {
+        font-family: 'Arial', sans-serif;
+        font-size: 28px;
+        margin: 10px 0;
+    }
+
+    .sentence1 { color: #4B0082; }
+    .sentence2 { color: #FF4500; }
+    .sentence3 { color: #008080; }
+</style>
+
+<div class="wave">
+    <div class="sentence sentence1">👋🌍 Hello, World! 💻✨</div>
+    <div class="sentence sentence2">🎨 Code is poetry. 📜🎶</div>
+    <div class="sentence sentence3">✍️ And I’m writing my masterpiece. 📖🌟</div>
+</div>
 
 
 
