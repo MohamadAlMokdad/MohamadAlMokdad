@@ -3,7 +3,8 @@
 
 <h1 align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=130&duration=4000&pause=1000&lines=Hello,+World!;Code+is+poetry.;And+I%E2%80%99m+writing+my+masterpiece." alt="Typing SVG" />
+   🎨 Code is poetry. ✍️ And I’m writing my masterpiece. 📖🌟
+
 </h1>
 
 
