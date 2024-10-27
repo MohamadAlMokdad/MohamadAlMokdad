@@ -2,7 +2,8 @@
 
 <h1 align="center">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Spectral&size=30&center=true&vCenter=true&width=500&height=130&duration=4000&pause=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello,+world!+%F0%9F%8C%8D;%F0%9F%92%BB+Code+is+poetry.;%F0%9F%92%BB+And+I%E2%80%99m+writing+my+masterpiece.&background=linear-gradient(to right, #4e54c8, #8f94fb)&color=white" alt="Creative Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&center=true&vCenter=true&width=500&height=130&duration=4000&pause=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello,+world!+%F0%9F%8C%8D;%F0%9F%92%BB+Code+is+poetry.;%F0%9F%92%BB+And+I%E2%80%99m+writing+my+masterpiece.&background=rgba(255, 223, 186, 0.8)&color=rgba(46, 139, 87, 1)&stroke=rgba(0, 0, 0, 0.5)&strokeWidth=2" alt="Playful Typing SVG" />
+
 
 
 
