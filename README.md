@@ -1,10 +1,14 @@
-# 🎨 Code is poetry, ✍️ and I’m writing my masterpiece. 📖🌟
+<h1 align="center">
+   🎨 Code is poetry, ✍️ and I’m writing my masterpiece. 📖🌟
+</h1>
 
-### 🌟 A skilled software developer from the vibrant landscapes of Lebanon!  
-### 🚀 Leveraging my expertise in Python and innovative problem-solving to build the future of technology! 💻✨
+<h3 align="center">
+  🌟 A skilled software developer from the vibrant landscapes of Lebanon! <br>
+  🚀 Leveraging my expertise in Python and innovative problem-solving to build the future of technology! 💻✨
+</h3>
 
----
-
+<br/>
+<div align="center">
 ✨ **In the realm of code, I thrive,**  
 🔭 Where innovation sparks and ideas come alive.  
 
@@ -13,8 +17,9 @@
 
 🎶 **Coding is my art, my melody divine,**  
 ⚡ Creating magic, one function at a time!  
+</div>
 
----
+<br/>
 
 <div align="center"> 
   <a href="mailto:mohammad77.2002@gmail.com">
@@ -22,13 +27,14 @@
   </a>
 </div>
 
----
+<hr/>
 
-## 🔧 Tech Stack 🔧
-
+<h2 align="center">🔧 Tech Stack 🔧</h2>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,java" />
+    <img src="https://skillicons.dev/icons?i=python,java" /><br>
 </div>
 
----
+<br/>
+<hr/>
